@@ -7,6 +7,7 @@ admins = {
 	{ name = "MoshPit", title = "Map Manager", accountName = "MoshMosh" },
 	{ name = "neox.", title = "Map Assistant", accountName = "neox" },
 	{ name = "Goldberg", title = "Map Assistant", accountName = "Goldberg" },
+	{ name = "r0cK", title = "Event Admin", accountName = "r0cK" },
 	{ name = "Jack123", title = "Mother Russia", accountName = "Jack123" },
 	{ name = "Stig", title = "Old Admin", accountName = "Stig" },
 	{ name = "Hulpje", title = "Dota Admin", accountName = "hulpje" },
